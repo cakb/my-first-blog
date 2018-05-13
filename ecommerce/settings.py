@@ -25,7 +25,7 @@ SECRET_KEY = '(7*zsd#6gnycsr^4+$66+gu1f-lh#up=#hav6iaye@o&n1u@21'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<SkerlyVente>.pythonanywhere.com']
+ALLOWED_HOSTS = ['cakb.pythonanywhere.com']
 
 
 # Application definition
